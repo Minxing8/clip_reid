@@ -1,0 +1,5702 @@
+{
+  "0021801158": {
+    "teamA": "Mavericks",
+    "teamB": "76ers",
+    "colorA": "black",
+    "colorB": "white",
+    "players": {
+      "James Ennis III": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Tobias Harris": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Jonah Bolden": {
+        "jersey_color": "white",
+        "jersey_number": "43",
+        "ethnicity": "black"
+      },
+      "JJ Redick": {
+        "jersey_color": "white",
+        "jersey_number": "17",
+        "ethnicity": "white"
+      },
+      "Ben Simmons": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "Mike Scott": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Shake Milton": {
+        "jersey_color": "white",
+        "jersey_number": "18",
+        "ethnicity": "black"
+      },
+      "T.J. McConnell": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Boban Marjanovic": {
+        "jersey_color": "white",
+        "jersey_number": "51",
+        "ethnicity": "white"
+      },
+      "Zhaire Smith": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Haywood Highsmith": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Amir Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Jonathon Simmons": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Justin Jackson": {
+        "jersey_color": "black",
+        "jersey_number": "44",
+        "ethnicity": "black"
+      },
+      "Dirk Nowitzki": {
+        "jersey_color": "black",
+        "jersey_number": "41",
+        "ethnicity": "white"
+      },
+      "Dwight Powell": {
+        "jersey_color": "black",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Courtney Lee": {
+        "jersey_color": "black",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Jalen Brunson": {
+        "jersey_color": "black",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Maxi Kleber": {
+        "jersey_color": "black",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Salah Mejri": {
+        "jersey_color": "black",
+        "jersey_number": "50",
+        "ethnicity": "black"
+      },
+      "Trey Burke": {
+        "jersey_color": "black",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Ryan Broekhoff": {
+        "jersey_color": "black",
+        "jersey_number": "45",
+        "ethnicity": "white"
+      },
+      "Daryl Macon": {
+        "jersey_color": "black",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Dorian Finney-Smith": {
+        "jersey_color": "black",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Devin Harris": {
+        "jersey_color": "black",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Tim Hardaway Jr.": {
+        "jersey_color": "black",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Luka Doncic": {
+        "jersey_color": "black",
+        "jersey_number": "77",
+        "ethnicity": "white"
+      },
+      "Jimmy Butler": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Furkan Korkmaz": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "white"
+      },
+      "Greg Monroe": {
+        "jersey_color": "white",
+        "jersey_number": "55",
+        "ethnicity": "black"
+      },
+      "Wesley Matthews": {
+        "jersey_color": "black",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Harrison Barnes": {
+        "jersey_color": "black",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "DeAndre Jordan": {
+        "jersey_color": "black",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Dennis Smith Jr.": {
+        "jersey_color": "black",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "J.J. Barea": {
+        "jersey_color": "black",
+        "jersey_number": "5",
+        "ethnicity": "white"
+      },
+      "Justin Patton": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Kostas Antetokounmpo": {
+        "jersey_color": "black",
+        "jersey_number": "37",
+        "ethnicity": "black"
+      },
+      "Wilson Chandler": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Joel Embiid": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Landry Shamet": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Corey Brewer": {
+        "jersey_color": "white",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Demetrius Jackson": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800403": {
+    "teamA": "Suns",
+    "teamB": "Spurs",
+    "colorA": "blue",
+    "colorB": "white",
+    "players": {
+      "Josh Jackson": {
+        "jersey_color": "blue",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "T.J. Warren": {
+        "jersey_color": "blue",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "Deandre Ayton": {
+        "jersey_color": "blue",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Mikal Bridges": {
+        "jersey_color": "blue",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "De'Anthony Melton": {
+        "jersey_color": "blue",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Jawun Evans": {
+        "jersey_color": "blue",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Troy Daniels": {
+        "jersey_color": "blue",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Richaun Holmes": {
+        "jersey_color": "blue",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dragan Bender": {
+        "jersey_color": "blue",
+        "jersey_number": "35",
+        "ethnicity": "white"
+      },
+      "George King": {
+        "jersey_color": "blue",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Ryan Anderson": {
+        "jersey_color": "blue",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "Trevor Ariza": {
+        "jersey_color": "blue",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Jamal Crawford": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Derrick White": {
+        "jersey_color": "white",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Rudy Gay": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "LaMarcus Aldridge": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "DeMar DeRozan": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Bryn Forbes": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Patty Mills": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Marco Belinelli": {
+        "jersey_color": "white",
+        "jersey_number": "18",
+        "ethnicity": "white"
+      },
+      "Dante Cunningham": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Jakob Poeltl": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "white"
+      },
+      "Quincy Pondexter": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Chimezie Metu": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Davis Bertans": {
+        "jersey_color": "white",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Lonnie Walker IV": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Pau Gasol": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "Drew Eubanks": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "white"
+      },
+      "Devin Booker": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Isaiah Canaan": {
+        "jersey_color": "blue",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Elie Okobo": {
+        "jersey_color": "blue",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "TYLER Johnson": {
+        "jersey_color": "blue",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "Ray Spalding": {
+        "jersey_color": "blue",
+        "jersey_number": "26",
+        "ethnicity": "black"
+      },
+      "Jimmer Fredette": {
+        "jersey_color": "blue",
+        "jersey_number": "32",
+        "ethnicity": "white"
+      },
+      "Kelly Oubre Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800859": {
+    "teamA": "Mavericks",
+    "teamB": "Heat",
+    "colorA": "blue",
+    "colorB": "white",
+    "players": {
+      "Justin Jackson": {
+        "jersey_color": "blue",
+        "jersey_number": "44",
+        "ethnicity": "black"
+      },
+      "Dirk Nowitzki": {
+        "jersey_color": "blue",
+        "jersey_number": "41",
+        "ethnicity": "white"
+      },
+      "Dwight Powell": {
+        "jersey_color": "blue",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Courtney Lee": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Jalen Brunson": {
+        "jersey_color": "blue",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Maxi Kleber": {
+        "jersey_color": "blue",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Salah Mejri": {
+        "jersey_color": "blue",
+        "jersey_number": "50",
+        "ethnicity": "black"
+      },
+      "Trey Burke": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Ryan Broekhoff": {
+        "jersey_color": "blue",
+        "jersey_number": "45",
+        "ethnicity": "white"
+      },
+      "Daryl Macon": {
+        "jersey_color": "blue",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Dorian Finney-Smith": {
+        "jersey_color": "blue",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Devin Harris": {
+        "jersey_color": "blue",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Josh Richardson": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Kelly Olynyk": {
+        "jersey_color": "white",
+        "jersey_number": "9",
+        "ethnicity": "white"
+      },
+      "Hassan Whiteside": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dion Waiters": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Justise Winslow": {
+        "jersey_color": "white",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "Dwyane Wade": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Bam Adebayo": {
+        "jersey_color": "white",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "James Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "black"
+      },
+      "Rodney McGruder": {
+        "jersey_color": "white",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Udonis Haslem": {
+        "jersey_color": "white",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "Duncan Robinson": {
+        "jersey_color": "white",
+        "jersey_number": "55",
+        "ethnicity": "white"
+      },
+      "Tim Hardaway Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Luka Doncic": {
+        "jersey_color": "blue",
+        "jersey_number": "77",
+        "ethnicity": "white"
+      },
+      "Goran Dragic": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "white"
+      },
+      "Derrick Jones Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Yante Maten": {
+        "jersey_color": "white",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Tyler Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "white"
+      },
+      "Wayne Ellington": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Wesley Matthews": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Harrison Barnes": {
+        "jersey_color": "blue",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "DeAndre Jordan": {
+        "jersey_color": "blue",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Dennis Smith Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "J.J. Barea": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "white"
+      },
+      "Kostas Antetokounmpo": {
+        "jersey_color": "blue",
+        "jersey_number": "37",
+        "ethnicity": "black"
+      },
+      "Emanuel Terry": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021801212": {
+    "teamA": "76ers",
+    "teamB": "Heat",
+    "colorA": "blue",
+    "colorB": "white",
+    "players": {
+      "James Ennis III": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Tobias Harris": {
+        "jersey_color": "blue",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Jonah Bolden": {
+        "jersey_color": "blue",
+        "jersey_number": "43",
+        "ethnicity": "black"
+      },
+      "JJ Redick": {
+        "jersey_color": "blue",
+        "jersey_number": "17",
+        "ethnicity": "white"
+      },
+      "Ben Simmons": {
+        "jersey_color": "blue",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "Mike Scott": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Shake Milton": {
+        "jersey_color": "blue",
+        "jersey_number": "18",
+        "ethnicity": "black"
+      },
+      "T.J. McConnell": {
+        "jersey_color": "blue",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Boban Marjanovic": {
+        "jersey_color": "blue",
+        "jersey_number": "51",
+        "ethnicity": "white"
+      },
+      "Zhaire Smith": {
+        "jersey_color": "blue",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Haywood Highsmith": {
+        "jersey_color": "blue",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Amir Johnson": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Jonathon Simmons": {
+        "jersey_color": "blue",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Josh Richardson": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Kelly Olynyk": {
+        "jersey_color": "white",
+        "jersey_number": "9",
+        "ethnicity": "white"
+      },
+      "Hassan Whiteside": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dion Waiters": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Justise Winslow": {
+        "jersey_color": "white",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "Dwyane Wade": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Bam Adebayo": {
+        "jersey_color": "white",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "James Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "black"
+      },
+      "Rodney McGruder": {
+        "jersey_color": "white",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Udonis Haslem": {
+        "jersey_color": "white",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "Duncan Robinson": {
+        "jersey_color": "white",
+        "jersey_number": "55",
+        "ethnicity": "white"
+      },
+      "Jimmy Butler": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Furkan Korkmaz": {
+        "jersey_color": "blue",
+        "jersey_number": "30",
+        "ethnicity": "white"
+      },
+      "Greg Monroe": {
+        "jersey_color": "blue",
+        "jersey_number": "55",
+        "ethnicity": "black"
+      },
+      "Goran Dragic": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "white"
+      },
+      "Derrick Jones Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Yante Maten": {
+        "jersey_color": "white",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Tyler Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "white"
+      },
+      "Wayne Ellington": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Justin Patton": {
+        "jersey_color": "blue",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Wilson Chandler": {
+        "jersey_color": "blue",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Joel Embiid": {
+        "jersey_color": "blue",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Landry Shamet": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Corey Brewer": {
+        "jersey_color": "blue",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Demetrius Jackson": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Emanuel Terry": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800810": {
+    "teamA": "Warriors",
+    "teamB": "Spurs",
+    "colorA": "gray",
+    "colorB": "white",
+    "players": {
+      "Derrick White": {
+        "jersey_color": "white",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Rudy Gay": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "LaMarcus Aldridge": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "DeMar DeRozan": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Bryn Forbes": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Patty Mills": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Marco Belinelli": {
+        "jersey_color": "white",
+        "jersey_number": "18",
+        "ethnicity": "white"
+      },
+      "Dante Cunningham": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Jakob Poeltl": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "white"
+      },
+      "Quincy Pondexter": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Chimezie Metu": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Davis Bertans": {
+        "jersey_color": "white",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Lonnie Walker IV": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Pau Gasol": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "Drew Eubanks": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "white"
+      },
+      "Kevin Durant": {
+        "jersey_color": "gray",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Draymond Green": {
+        "jersey_color": "gray",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "DeMarcus Cousins": {
+        "jersey_color": "gray",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Klay Thompson": {
+        "jersey_color": "gray",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Stephen Curry": {
+        "jersey_color": "gray",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Kevon Looney": {
+        "jersey_color": "gray",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Andre Iguodala": {
+        "jersey_color": "gray",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Alfonzo McKinnie": {
+        "jersey_color": "gray",
+        "jersey_number": "28",
+        "ethnicity": "black"
+      },
+      "Shaun Livingston": {
+        "jersey_color": "gray",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Jonas Jerebko": {
+        "jersey_color": "gray",
+        "jersey_number": "21",
+        "ethnicity": "white"
+      },
+      "Quinn Cook": {
+        "jersey_color": "gray",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Jordan Bell": {
+        "jersey_color": "gray",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Marcus Derrickson": {
+        "jersey_color": "gray",
+        "jersey_number": "32",
+        "ethnicity": "black"
+      },
+      "Damion Lee": {
+        "jersey_color": "gray",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Jacob Evans": {
+        "jersey_color": "gray",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Andrew Bogut": {
+        "jersey_color": "gray",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Damian Jones": {
+        "jersey_color": "gray",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021801011": {
+    "teamA": "Mavericks",
+    "teamB": "Spurs",
+    "colorA": "blue",
+    "colorB": "white",
+    "players": {
+      "Justin Jackson": {
+        "jersey_color": "blue",
+        "jersey_number": "44",
+        "ethnicity": "black"
+      },
+      "Dirk Nowitzki": {
+        "jersey_color": "blue",
+        "jersey_number": "41",
+        "ethnicity": "white"
+      },
+      "Dwight Powell": {
+        "jersey_color": "blue",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Courtney Lee": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Jalen Brunson": {
+        "jersey_color": "blue",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Maxi Kleber": {
+        "jersey_color": "blue",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Salah Mejri": {
+        "jersey_color": "blue",
+        "jersey_number": "50",
+        "ethnicity": "black"
+      },
+      "Trey Burke": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Ryan Broekhoff": {
+        "jersey_color": "blue",
+        "jersey_number": "45",
+        "ethnicity": "white"
+      },
+      "Daryl Macon": {
+        "jersey_color": "blue",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Dorian Finney-Smith": {
+        "jersey_color": "blue",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Devin Harris": {
+        "jersey_color": "blue",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Derrick White": {
+        "jersey_color": "white",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Rudy Gay": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "LaMarcus Aldridge": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "DeMar DeRozan": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Bryn Forbes": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Patty Mills": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Marco Belinelli": {
+        "jersey_color": "white",
+        "jersey_number": "18",
+        "ethnicity": "white"
+      },
+      "Dante Cunningham": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Jakob Poeltl": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "white"
+      },
+      "Quincy Pondexter": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Chimezie Metu": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Davis Bertans": {
+        "jersey_color": "white",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Tim Hardaway Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Luka Doncic": {
+        "jersey_color": "blue",
+        "jersey_number": "77",
+        "ethnicity": "white"
+      },
+      "Lonnie Walker IV": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Pau Gasol": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "Drew Eubanks": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "white"
+      },
+      "Wesley Matthews": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Harrison Barnes": {
+        "jersey_color": "blue",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "DeAndre Jordan": {
+        "jersey_color": "blue",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Dennis Smith Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "J.J. Barea": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "white"
+      },
+      "Kostas Antetokounmpo": {
+        "jersey_color": "blue",
+        "jersey_number": "37",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800500": {
+    "teamA": "Lakers",
+    "teamB": "Warriors",
+    "colorA": "purple",
+    "colorB": "yellow",
+    "players": {
+      "Kevin Durant": {
+        "jersey_color": "yellow",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Draymond Green": {
+        "jersey_color": "yellow",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "DeMarcus Cousins": {
+        "jersey_color": "yellow",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Klay Thompson": {
+        "jersey_color": "yellow",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Stephen Curry": {
+        "jersey_color": "yellow",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Kevon Looney": {
+        "jersey_color": "yellow",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Andre Iguodala": {
+        "jersey_color": "yellow",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Alfonzo McKinnie": {
+        "jersey_color": "yellow",
+        "jersey_number": "28",
+        "ethnicity": "black"
+      },
+      "Shaun Livingston": {
+        "jersey_color": "yellow",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Jonas Jerebko": {
+        "jersey_color": "yellow",
+        "jersey_number": "21",
+        "ethnicity": "white"
+      },
+      "Quinn Cook": {
+        "jersey_color": "yellow",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Jordan Bell": {
+        "jersey_color": "yellow",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Marcus Derrickson": {
+        "jersey_color": "yellow",
+        "jersey_number": "32",
+        "ethnicity": "black"
+      },
+      "LeBron James": {
+        "jersey_color": "purple",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Kyle Kuzma": {
+        "jersey_color": "purple",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Ivica Zubac": {
+        "jersey_color": "purple",
+        "jersey_number": "40",
+        "ethnicity": "white"
+      },
+      "Brandon Ingram": {
+        "jersey_color": "purple",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Lonzo Ball": {
+        "jersey_color": "purple",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Tyson Chandler": {
+        "jersey_color": "purple",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Josh Hart": {
+        "jersey_color": "purple",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Rajon Rondo": {
+        "jersey_color": "purple",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Kentavious Caldwell-Pope": {
+        "jersey_color": "purple",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Lance Stephenson": {
+        "jersey_color": "purple",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Svi Mykhailiuk": {
+        "jersey_color": "purple",
+        "jersey_number": "10",
+        "ethnicity": "white"
+      },
+      "Moritz Wagner": {
+        "jersey_color": "purple",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "JaVale McGee": {
+        "jersey_color": "purple",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Damion Lee": {
+        "jersey_color": "yellow",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Michael Beasley": {
+        "jersey_color": "purple",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Isaac Bonga": {
+        "jersey_color": "purple",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Mike Muscala": {
+        "jersey_color": "purple",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Jacob Evans": {
+        "jersey_color": "yellow",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Andrew Bogut": {
+        "jersey_color": "yellow",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Damian Jones": {
+        "jersey_color": "yellow",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      },
+      "Johnathan Williams": {
+        "jersey_color": "purple",
+        "jersey_number": "19",
+        "ethnicity": "black"
+      },
+      "Alex Caruso": {
+        "jersey_color": "purple",
+        "jersey_number": "4",
+        "ethnicity": "white"
+      },
+      "Jemerrio Jones": {
+        "jersey_color": "purple",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Reggie Bullock Jr.": {
+        "jersey_color": "purple",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800151": {
+    "teamA": "Nets",
+    "teamB": "Suns",
+    "colorA": "black",
+    "colorB": "white",
+    "players": {
+      "Josh Jackson": {
+        "jersey_color": "white",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "T.J. Warren": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "Deandre Ayton": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Mikal Bridges": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "De'Anthony Melton": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Jawun Evans": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Troy Daniels": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Richaun Holmes": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dragan Bender": {
+        "jersey_color": "white",
+        "jersey_number": "35",
+        "ethnicity": "white"
+      },
+      "George King": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Ryan Anderson": {
+        "jersey_color": "white",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "Trevor Ariza": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Jamal Crawford": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Joe Harris": {
+        "jersey_color": "black",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Jared Dudley": {
+        "jersey_color": "black",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Jarrett Allen": {
+        "jersey_color": "black",
+        "jersey_number": "31",
+        "ethnicity": "black"
+      },
+      "Caris LeVert": {
+        "jersey_color": "black",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "D'Angelo Russell": {
+        "jersey_color": "black",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Allen Crabbe": {
+        "jersey_color": "black",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Ed Davis": {
+        "jersey_color": "black",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Rondae Hollis-Jefferson": {
+        "jersey_color": "black",
+        "jersey_number": "24",
+        "ethnicity": "black"
+      },
+      "Spencer Dinwiddie": {
+        "jersey_color": "black",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Shabazz Napier": {
+        "jersey_color": "black",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Kenneth Faried": {
+        "jersey_color": "black",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Rodions Kurucs": {
+        "jersey_color": "black",
+        "jersey_number": "0 0",
+        "ethnicity": "white"
+      },
+      "Devin Booker": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Isaiah Canaan": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Elie Okobo": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "TYLER Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "DeMarre Carroll": {
+        "jersey_color": "black",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Theo Pinson": {
+        "jersey_color": "black",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Ray Spalding": {
+        "jersey_color": "white",
+        "jersey_number": "26",
+        "ethnicity": "black"
+      },
+      "Jimmer Fredette": {
+        "jersey_color": "white",
+        "jersey_number": "32",
+        "ethnicity": "white"
+      },
+      "Kelly Oubre Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800413": {
+    "teamA": "Jazz",
+    "teamB": "Heat",
+    "colorA": "white",
+    "colorB": "black",
+    "players": {
+      "Josh Richardson": {
+        "jersey_color": "black",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Kelly Olynyk": {
+        "jersey_color": "black",
+        "jersey_number": "9",
+        "ethnicity": "white"
+      },
+      "Hassan Whiteside": {
+        "jersey_color": "black",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dion Waiters": {
+        "jersey_color": "black",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Justise Winslow": {
+        "jersey_color": "black",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "Dwyane Wade": {
+        "jersey_color": "black",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Bam Adebayo": {
+        "jersey_color": "black",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "James Johnson": {
+        "jersey_color": "black",
+        "jersey_number": "16",
+        "ethnicity": "black"
+      },
+      "Rodney McGruder": {
+        "jersey_color": "black",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Udonis Haslem": {
+        "jersey_color": "black",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "Duncan Robinson": {
+        "jersey_color": "black",
+        "jersey_number": "55",
+        "ethnicity": "white"
+      },
+      "Goran Dragic": {
+        "jersey_color": "black",
+        "jersey_number": "7",
+        "ethnicity": "white"
+      },
+      "Derrick Jones Jr.": {
+        "jersey_color": "black",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Yante Maten": {
+        "jersey_color": "black",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Tyler Johnson": {
+        "jersey_color": "black",
+        "jersey_number": "8",
+        "ethnicity": "white"
+      },
+      "Wayne Ellington": {
+        "jersey_color": "black",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Joe Ingles": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "white"
+      },
+      "Jae Crowder": {
+        "jersey_color": "white",
+        "jersey_number": "99",
+        "ethnicity": "black"
+      },
+      "Rudy Gobert": {
+        "jersey_color": "white",
+        "jersey_number": "27",
+        "ethnicity": "black"
+      },
+      "Donovan Mitchell": {
+        "jersey_color": "white",
+        "jersey_number": "45",
+        "ethnicity": "black"
+      },
+      "Ricky Rubio": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "white"
+      },
+      "Kyle Korver": {
+        "jersey_color": "white",
+        "jersey_number": "26",
+        "ethnicity": "white"
+      },
+      "Derrick Favors": {
+        "jersey_color": "white",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      },
+      "Dante Exum": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Royce O'Neale": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Thabo Sefolosha": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Grayson Allen": {
+        "jersey_color": "white",
+        "jersey_number": "24",
+        "ethnicity": "white"
+      },
+      "Ekpe Udoh": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Georges Niang": {
+        "jersey_color": "white",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Naz Mitrou-Long": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Tyler Cavanaugh": {
+        "jersey_color": "white",
+        "jersey_number": "34",
+        "ethnicity": "white"
+      },
+      "Raul Neto": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "white"
+      },
+      "Emanuel Terry": {
+        "jersey_color": "black",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "Alec Burks": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800596": {
+    "teamA": "Lakers",
+    "teamB": "Mavericks",
+    "colorA": "yellow",
+    "colorB": "blue",
+    "players": {
+      "Justin Jackson": {
+        "jersey_color": "blue",
+        "jersey_number": "44",
+        "ethnicity": "black"
+      },
+      "Dirk Nowitzki": {
+        "jersey_color": "blue",
+        "jersey_number": "41",
+        "ethnicity": "white"
+      },
+      "Dwight Powell": {
+        "jersey_color": "blue",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Courtney Lee": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Jalen Brunson": {
+        "jersey_color": "blue",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Maxi Kleber": {
+        "jersey_color": "blue",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Salah Mejri": {
+        "jersey_color": "blue",
+        "jersey_number": "50",
+        "ethnicity": "black"
+      },
+      "Trey Burke": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Ryan Broekhoff": {
+        "jersey_color": "blue",
+        "jersey_number": "45",
+        "ethnicity": "white"
+      },
+      "Daryl Macon": {
+        "jersey_color": "blue",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Dorian Finney-Smith": {
+        "jersey_color": "blue",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Devin Harris": {
+        "jersey_color": "blue",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Tim Hardaway Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Luka Doncic": {
+        "jersey_color": "blue",
+        "jersey_number": "77",
+        "ethnicity": "white"
+      },
+      "LeBron James": {
+        "jersey_color": "yellow",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Kyle Kuzma": {
+        "jersey_color": "yellow",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Ivica Zubac": {
+        "jersey_color": "yellow",
+        "jersey_number": "40",
+        "ethnicity": "white"
+      },
+      "Brandon Ingram": {
+        "jersey_color": "yellow",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Lonzo Ball": {
+        "jersey_color": "yellow",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Tyson Chandler": {
+        "jersey_color": "yellow",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Josh Hart": {
+        "jersey_color": "yellow",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Rajon Rondo": {
+        "jersey_color": "yellow",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Kentavious Caldwell-Pope": {
+        "jersey_color": "yellow",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Lance Stephenson": {
+        "jersey_color": "yellow",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Svi Mykhailiuk": {
+        "jersey_color": "yellow",
+        "jersey_number": "10",
+        "ethnicity": "white"
+      },
+      "Moritz Wagner": {
+        "jersey_color": "yellow",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "JaVale McGee": {
+        "jersey_color": "yellow",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Michael Beasley": {
+        "jersey_color": "yellow",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Isaac Bonga": {
+        "jersey_color": "yellow",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Wesley Matthews": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Harrison Barnes": {
+        "jersey_color": "blue",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "DeAndre Jordan": {
+        "jersey_color": "blue",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Dennis Smith Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "J.J. Barea": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "white"
+      },
+      "Kostas Antetokounmpo": {
+        "jersey_color": "blue",
+        "jersey_number": "37",
+        "ethnicity": "black"
+      },
+      "Mike Muscala": {
+        "jersey_color": "yellow",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Johnathan Williams": {
+        "jersey_color": "yellow",
+        "jersey_number": "19",
+        "ethnicity": "black"
+      },
+      "Alex Caruso": {
+        "jersey_color": "yellow",
+        "jersey_number": "4",
+        "ethnicity": "white"
+      },
+      "Jemerrio Jones": {
+        "jersey_color": "yellow",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Reggie Bullock Jr.": {
+        "jersey_color": "yellow",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800938": {
+    "teamA": "Warriors",
+    "teamB": "76ers",
+    "colorA": "blue",
+    "colorB": "white",
+    "players": {
+      "James Ennis III": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Tobias Harris": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Jonah Bolden": {
+        "jersey_color": "white",
+        "jersey_number": "43",
+        "ethnicity": "black"
+      },
+      "JJ Redick": {
+        "jersey_color": "white",
+        "jersey_number": "17",
+        "ethnicity": "white"
+      },
+      "Ben Simmons": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "Mike Scott": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Shake Milton": {
+        "jersey_color": "white",
+        "jersey_number": "18",
+        "ethnicity": "black"
+      },
+      "T.J. McConnell": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Boban Marjanovic": {
+        "jersey_color": "white",
+        "jersey_number": "51",
+        "ethnicity": "white"
+      },
+      "Zhaire Smith": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Haywood Highsmith": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Amir Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Jonathon Simmons": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Jimmy Butler": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Furkan Korkmaz": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "white"
+      },
+      "Greg Monroe": {
+        "jersey_color": "white",
+        "jersey_number": "55",
+        "ethnicity": "black"
+      },
+      "Kevin Durant": {
+        "jersey_color": "blue",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Draymond Green": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "DeMarcus Cousins": {
+        "jersey_color": "blue",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Klay Thompson": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Stephen Curry": {
+        "jersey_color": "blue",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Kevon Looney": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Andre Iguodala": {
+        "jersey_color": "blue",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Alfonzo McKinnie": {
+        "jersey_color": "blue",
+        "jersey_number": "28",
+        "ethnicity": "black"
+      },
+      "Shaun Livingston": {
+        "jersey_color": "blue",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Jonas Jerebko": {
+        "jersey_color": "blue",
+        "jersey_number": "21",
+        "ethnicity": "white"
+      },
+      "Quinn Cook": {
+        "jersey_color": "blue",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Jordan Bell": {
+        "jersey_color": "blue",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Marcus Derrickson": {
+        "jersey_color": "blue",
+        "jersey_number": "32",
+        "ethnicity": "black"
+      },
+      "Damion Lee": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Justin Patton": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Wilson Chandler": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Joel Embiid": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Landry Shamet": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Corey Brewer": {
+        "jersey_color": "white",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Jacob Evans": {
+        "jersey_color": "blue",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Andrew Bogut": {
+        "jersey_color": "blue",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Demetrius Jackson": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Damian Jones": {
+        "jersey_color": "blue",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800952": {
+    "teamA": "Nets",
+    "teamB": "Mavericks",
+    "colorA": "black",
+    "colorB": "white",
+    "players": {
+      "Justin Jackson": {
+        "jersey_color": "white",
+        "jersey_number": "44",
+        "ethnicity": "black"
+      },
+      "Dirk Nowitzki": {
+        "jersey_color": "white",
+        "jersey_number": "41",
+        "ethnicity": "white"
+      },
+      "Dwight Powell": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Courtney Lee": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Jalen Brunson": {
+        "jersey_color": "white",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Maxi Kleber": {
+        "jersey_color": "white",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Salah Mejri": {
+        "jersey_color": "white",
+        "jersey_number": "50",
+        "ethnicity": "black"
+      },
+      "Trey Burke": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Ryan Broekhoff": {
+        "jersey_color": "white",
+        "jersey_number": "45",
+        "ethnicity": "white"
+      },
+      "Daryl Macon": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Dorian Finney-Smith": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Devin Harris": {
+        "jersey_color": "white",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Tim Hardaway Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Luka Doncic": {
+        "jersey_color": "white",
+        "jersey_number": "77",
+        "ethnicity": "white"
+      },
+      "Joe Harris": {
+        "jersey_color": "black",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Jared Dudley": {
+        "jersey_color": "black",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Jarrett Allen": {
+        "jersey_color": "black",
+        "jersey_number": "31",
+        "ethnicity": "black"
+      },
+      "Caris LeVert": {
+        "jersey_color": "black",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "D'Angelo Russell": {
+        "jersey_color": "black",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Allen Crabbe": {
+        "jersey_color": "black",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Ed Davis": {
+        "jersey_color": "black",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Rondae Hollis-Jefferson": {
+        "jersey_color": "black",
+        "jersey_number": "24",
+        "ethnicity": "black"
+      },
+      "Spencer Dinwiddie": {
+        "jersey_color": "black",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Shabazz Napier": {
+        "jersey_color": "black",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Kenneth Faried": {
+        "jersey_color": "black",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Rodions Kurucs": {
+        "jersey_color": "black",
+        "jersey_number": "0 0",
+        "ethnicity": "white"
+      },
+      "Wesley Matthews": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Harrison Barnes": {
+        "jersey_color": "white",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "DeAndre Jordan": {
+        "jersey_color": "white",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Dennis Smith Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "J.J. Barea": {
+        "jersey_color": "white",
+        "jersey_number": "5",
+        "ethnicity": "white"
+      },
+      "DeMarre Carroll": {
+        "jersey_color": "black",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Theo Pinson": {
+        "jersey_color": "black",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Kostas Antetokounmpo": {
+        "jersey_color": "white",
+        "jersey_number": "37",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021801216": {
+    "teamA": "Suns",
+    "teamB": "Mavericks",
+    "colorA": "white",
+    "colorB": "blue",
+    "players": {
+      "Justin Jackson": {
+        "jersey_color": "blue",
+        "jersey_number": "44",
+        "ethnicity": "black"
+      },
+      "Dirk Nowitzki": {
+        "jersey_color": "blue",
+        "jersey_number": "41",
+        "ethnicity": "white"
+      },
+      "Dwight Powell": {
+        "jersey_color": "blue",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Courtney Lee": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Jalen Brunson": {
+        "jersey_color": "blue",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Maxi Kleber": {
+        "jersey_color": "blue",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Salah Mejri": {
+        "jersey_color": "blue",
+        "jersey_number": "50",
+        "ethnicity": "black"
+      },
+      "Trey Burke": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Ryan Broekhoff": {
+        "jersey_color": "blue",
+        "jersey_number": "45",
+        "ethnicity": "white"
+      },
+      "Daryl Macon": {
+        "jersey_color": "blue",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Dorian Finney-Smith": {
+        "jersey_color": "blue",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Devin Harris": {
+        "jersey_color": "blue",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Josh Jackson": {
+        "jersey_color": "white",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "T.J. Warren": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "Deandre Ayton": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Mikal Bridges": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "De'Anthony Melton": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Jawun Evans": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Troy Daniels": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Richaun Holmes": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dragan Bender": {
+        "jersey_color": "white",
+        "jersey_number": "35",
+        "ethnicity": "white"
+      },
+      "George King": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Ryan Anderson": {
+        "jersey_color": "white",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "Trevor Ariza": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Jamal Crawford": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Tim Hardaway Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Luka Doncic": {
+        "jersey_color": "blue",
+        "jersey_number": "77",
+        "ethnicity": "white"
+      },
+      "Devin Booker": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Isaiah Canaan": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Elie Okobo": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "TYLER Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "Wesley Matthews": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Harrison Barnes": {
+        "jersey_color": "blue",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "DeAndre Jordan": {
+        "jersey_color": "blue",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Dennis Smith Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "J.J. Barea": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "white"
+      },
+      "Ray Spalding": {
+        "jersey_color": "white",
+        "jersey_number": "26",
+        "ethnicity": "black"
+      },
+      "Jimmer Fredette": {
+        "jersey_color": "white",
+        "jersey_number": "32",
+        "ethnicity": "white"
+      },
+      "Kostas Antetokounmpo": {
+        "jersey_color": "blue",
+        "jersey_number": "37",
+        "ethnicity": "black"
+      },
+      "Kelly Oubre Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800768": {
+    "teamA": "76ers",
+    "teamB": "Warriors",
+    "colorA": "white",
+    "colorB": "gray",
+    "players": {
+      "James Ennis III": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Tobias Harris": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Jonah Bolden": {
+        "jersey_color": "white",
+        "jersey_number": "43",
+        "ethnicity": "black"
+      },
+      "JJ Redick": {
+        "jersey_color": "white",
+        "jersey_number": "17",
+        "ethnicity": "white"
+      },
+      "Ben Simmons": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "Mike Scott": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Shake Milton": {
+        "jersey_color": "white",
+        "jersey_number": "18",
+        "ethnicity": "black"
+      },
+      "T.J. McConnell": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Boban Marjanovic": {
+        "jersey_color": "white",
+        "jersey_number": "51",
+        "ethnicity": "white"
+      },
+      "Zhaire Smith": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Haywood Highsmith": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Amir Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Jonathon Simmons": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Jimmy Butler": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Furkan Korkmaz": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "white"
+      },
+      "Greg Monroe": {
+        "jersey_color": "white",
+        "jersey_number": "55",
+        "ethnicity": "black"
+      },
+      "Kevin Durant": {
+        "jersey_color": "gray",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Draymond Green": {
+        "jersey_color": "gray",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "DeMarcus Cousins": {
+        "jersey_color": "gray",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Klay Thompson": {
+        "jersey_color": "gray",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Stephen Curry": {
+        "jersey_color": "gray",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Kevon Looney": {
+        "jersey_color": "gray",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Andre Iguodala": {
+        "jersey_color": "gray",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Alfonzo McKinnie": {
+        "jersey_color": "gray",
+        "jersey_number": "28",
+        "ethnicity": "black"
+      },
+      "Shaun Livingston": {
+        "jersey_color": "gray",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Jonas Jerebko": {
+        "jersey_color": "gray",
+        "jersey_number": "21",
+        "ethnicity": "white"
+      },
+      "Quinn Cook": {
+        "jersey_color": "gray",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Jordan Bell": {
+        "jersey_color": "gray",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Marcus Derrickson": {
+        "jersey_color": "gray",
+        "jersey_number": "32",
+        "ethnicity": "black"
+      },
+      "Damion Lee": {
+        "jersey_color": "gray",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Justin Patton": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Wilson Chandler": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Joel Embiid": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Landry Shamet": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Corey Brewer": {
+        "jersey_color": "white",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Jacob Evans": {
+        "jersey_color": "gray",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Andrew Bogut": {
+        "jersey_color": "gray",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Demetrius Jackson": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Damian Jones": {
+        "jersey_color": "gray",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800627": {
+    "teamA": "Lakers",
+    "teamB": "Jazz",
+    "colorA": "blue",
+    "colorB": "white",
+    "players": {
+      "LeBron James": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Kyle Kuzma": {
+        "jersey_color": "blue",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Ivica Zubac": {
+        "jersey_color": "blue",
+        "jersey_number": "40",
+        "ethnicity": "white"
+      },
+      "Brandon Ingram": {
+        "jersey_color": "blue",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Lonzo Ball": {
+        "jersey_color": "blue",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Tyson Chandler": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Josh Hart": {
+        "jersey_color": "blue",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Rajon Rondo": {
+        "jersey_color": "blue",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Kentavious Caldwell-Pope": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Lance Stephenson": {
+        "jersey_color": "blue",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Svi Mykhailiuk": {
+        "jersey_color": "blue",
+        "jersey_number": "10",
+        "ethnicity": "white"
+      },
+      "Moritz Wagner": {
+        "jersey_color": "blue",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "JaVale McGee": {
+        "jersey_color": "blue",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Joe Ingles": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "white"
+      },
+      "Jae Crowder": {
+        "jersey_color": "white",
+        "jersey_number": "99",
+        "ethnicity": "black"
+      },
+      "Rudy Gobert": {
+        "jersey_color": "white",
+        "jersey_number": "27",
+        "ethnicity": "black"
+      },
+      "Donovan Mitchell": {
+        "jersey_color": "white",
+        "jersey_number": "45",
+        "ethnicity": "black"
+      },
+      "Ricky Rubio": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "white"
+      },
+      "Kyle Korver": {
+        "jersey_color": "white",
+        "jersey_number": "26",
+        "ethnicity": "white"
+      },
+      "Derrick Favors": {
+        "jersey_color": "white",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      },
+      "Dante Exum": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Royce O'Neale": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Thabo Sefolosha": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Grayson Allen": {
+        "jersey_color": "white",
+        "jersey_number": "24",
+        "ethnicity": "white"
+      },
+      "Ekpe Udoh": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Georges Niang": {
+        "jersey_color": "white",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Michael Beasley": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Isaac Bonga": {
+        "jersey_color": "blue",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Mike Muscala": {
+        "jersey_color": "blue",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Naz Mitrou-Long": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Tyler Cavanaugh": {
+        "jersey_color": "white",
+        "jersey_number": "34",
+        "ethnicity": "white"
+      },
+      "Raul Neto": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "white"
+      },
+      "Johnathan Williams": {
+        "jersey_color": "blue",
+        "jersey_number": "19",
+        "ethnicity": "black"
+      },
+      "Alec Burks": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Alex Caruso": {
+        "jersey_color": "blue",
+        "jersey_number": "4",
+        "ethnicity": "white"
+      },
+      "Jemerrio Jones": {
+        "jersey_color": "blue",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Reggie Bullock Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800464": {
+    "teamA": "Jazz",
+    "teamB": "Warriors",
+    "colorA": "white",
+    "colorB": "red",
+    "players": {
+      "Kevin Durant": {
+        "jersey_color": "red",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Draymond Green": {
+        "jersey_color": "red",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "DeMarcus Cousins": {
+        "jersey_color": "red",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Klay Thompson": {
+        "jersey_color": "red",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Stephen Curry": {
+        "jersey_color": "red",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Kevon Looney": {
+        "jersey_color": "red",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Andre Iguodala": {
+        "jersey_color": "red",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Alfonzo McKinnie": {
+        "jersey_color": "red",
+        "jersey_number": "28",
+        "ethnicity": "black"
+      },
+      "Shaun Livingston": {
+        "jersey_color": "red",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Jonas Jerebko": {
+        "jersey_color": "red",
+        "jersey_number": "21",
+        "ethnicity": "white"
+      },
+      "Quinn Cook": {
+        "jersey_color": "red",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Jordan Bell": {
+        "jersey_color": "red",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Marcus Derrickson": {
+        "jersey_color": "red",
+        "jersey_number": "32",
+        "ethnicity": "black"
+      },
+      "Damion Lee": {
+        "jersey_color": "red",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Joe Ingles": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "white"
+      },
+      "Jae Crowder": {
+        "jersey_color": "white",
+        "jersey_number": "99",
+        "ethnicity": "black"
+      },
+      "Rudy Gobert": {
+        "jersey_color": "white",
+        "jersey_number": "27",
+        "ethnicity": "black"
+      },
+      "Donovan Mitchell": {
+        "jersey_color": "white",
+        "jersey_number": "45",
+        "ethnicity": "black"
+      },
+      "Ricky Rubio": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "white"
+      },
+      "Kyle Korver": {
+        "jersey_color": "white",
+        "jersey_number": "26",
+        "ethnicity": "white"
+      },
+      "Derrick Favors": {
+        "jersey_color": "white",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      },
+      "Dante Exum": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Royce O'Neale": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Thabo Sefolosha": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Grayson Allen": {
+        "jersey_color": "white",
+        "jersey_number": "24",
+        "ethnicity": "white"
+      },
+      "Ekpe Udoh": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Georges Niang": {
+        "jersey_color": "white",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Naz Mitrou-Long": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Tyler Cavanaugh": {
+        "jersey_color": "white",
+        "jersey_number": "34",
+        "ethnicity": "white"
+      },
+      "Raul Neto": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "white"
+      },
+      "Jacob Evans": {
+        "jersey_color": "red",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Andrew Bogut": {
+        "jersey_color": "red",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Damian Jones": {
+        "jersey_color": "red",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      },
+      "Alec Burks": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800013": {
+    "teamA": "Suns",
+    "teamB": "Mavericks",
+    "colorA": "white",
+    "colorB": "blue",
+    "players": {
+      "Justin Jackson": {
+        "jersey_color": "blue",
+        "jersey_number": "44",
+        "ethnicity": "black"
+      },
+      "Dirk Nowitzki": {
+        "jersey_color": "blue",
+        "jersey_number": "41",
+        "ethnicity": "white"
+      },
+      "Dwight Powell": {
+        "jersey_color": "blue",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Courtney Lee": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Jalen Brunson": {
+        "jersey_color": "blue",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Maxi Kleber": {
+        "jersey_color": "blue",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Salah Mejri": {
+        "jersey_color": "blue",
+        "jersey_number": "50",
+        "ethnicity": "black"
+      },
+      "Trey Burke": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Ryan Broekhoff": {
+        "jersey_color": "blue",
+        "jersey_number": "45",
+        "ethnicity": "white"
+      },
+      "Daryl Macon": {
+        "jersey_color": "blue",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Dorian Finney-Smith": {
+        "jersey_color": "blue",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Devin Harris": {
+        "jersey_color": "blue",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Josh Jackson": {
+        "jersey_color": "white",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "T.J. Warren": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "Deandre Ayton": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Mikal Bridges": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "De'Anthony Melton": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Jawun Evans": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Troy Daniels": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Richaun Holmes": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dragan Bender": {
+        "jersey_color": "white",
+        "jersey_number": "35",
+        "ethnicity": "white"
+      },
+      "George King": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Ryan Anderson": {
+        "jersey_color": "white",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "Trevor Ariza": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Jamal Crawford": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Tim Hardaway Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Luka Doncic": {
+        "jersey_color": "blue",
+        "jersey_number": "77",
+        "ethnicity": "white"
+      },
+      "Devin Booker": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Isaiah Canaan": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Elie Okobo": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "TYLER Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "Wesley Matthews": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Harrison Barnes": {
+        "jersey_color": "blue",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "DeAndre Jordan": {
+        "jersey_color": "blue",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Dennis Smith Jr.": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "J.J. Barea": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "white"
+      },
+      "Ray Spalding": {
+        "jersey_color": "white",
+        "jersey_number": "26",
+        "ethnicity": "black"
+      },
+      "Jimmer Fredette": {
+        "jersey_color": "white",
+        "jersey_number": "32",
+        "ethnicity": "white"
+      },
+      "Kostas Antetokounmpo": {
+        "jersey_color": "blue",
+        "jersey_number": "37",
+        "ethnicity": "black"
+      },
+      "Kelly Oubre Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021801055": {
+    "teamA": "Warriors",
+    "teamB": "Spurs",
+    "colorA": "blue",
+    "colorB": "white",
+    "players": {
+      "Derrick White": {
+        "jersey_color": "white",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Rudy Gay": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "LaMarcus Aldridge": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "DeMar DeRozan": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Bryn Forbes": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Patty Mills": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Marco Belinelli": {
+        "jersey_color": "white",
+        "jersey_number": "18",
+        "ethnicity": "white"
+      },
+      "Dante Cunningham": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Jakob Poeltl": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "white"
+      },
+      "Quincy Pondexter": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Chimezie Metu": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Davis Bertans": {
+        "jersey_color": "white",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Lonnie Walker IV": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Pau Gasol": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "Drew Eubanks": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "white"
+      },
+      "Kevin Durant": {
+        "jersey_color": "blue",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Draymond Green": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "DeMarcus Cousins": {
+        "jersey_color": "blue",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Klay Thompson": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Stephen Curry": {
+        "jersey_color": "blue",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Kevon Looney": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Andre Iguodala": {
+        "jersey_color": "blue",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Alfonzo McKinnie": {
+        "jersey_color": "blue",
+        "jersey_number": "28",
+        "ethnicity": "black"
+      },
+      "Shaun Livingston": {
+        "jersey_color": "blue",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Jonas Jerebko": {
+        "jersey_color": "blue",
+        "jersey_number": "21",
+        "ethnicity": "white"
+      },
+      "Quinn Cook": {
+        "jersey_color": "blue",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Jordan Bell": {
+        "jersey_color": "blue",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Marcus Derrickson": {
+        "jersey_color": "blue",
+        "jersey_number": "32",
+        "ethnicity": "black"
+      },
+      "Damion Lee": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Jacob Evans": {
+        "jersey_color": "blue",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Andrew Bogut": {
+        "jersey_color": "blue",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Damian Jones": {
+        "jersey_color": "blue",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800553": {
+    "teamA": "Clippers",
+    "teamB": "76ers",
+    "colorA": "white",
+    "colorB": "blue",
+    "players": {
+      "James Ennis III": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Tobias Harris": {
+        "jersey_color": "blue",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Jonah Bolden": {
+        "jersey_color": "blue",
+        "jersey_number": "43",
+        "ethnicity": "black"
+      },
+      "JJ Redick": {
+        "jersey_color": "blue",
+        "jersey_number": "17",
+        "ethnicity": "white"
+      },
+      "Ben Simmons": {
+        "jersey_color": "blue",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "Mike Scott": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Shake Milton": {
+        "jersey_color": "blue",
+        "jersey_number": "18",
+        "ethnicity": "black"
+      },
+      "T.J. McConnell": {
+        "jersey_color": "blue",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Boban Marjanovic": {
+        "jersey_color": "blue",
+        "jersey_number": "51",
+        "ethnicity": "white"
+      },
+      "Zhaire Smith": {
+        "jersey_color": "blue",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Haywood Highsmith": {
+        "jersey_color": "blue",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Amir Johnson": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Jonathon Simmons": {
+        "jersey_color": "blue",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Jimmy Butler": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Furkan Korkmaz": {
+        "jersey_color": "blue",
+        "jersey_number": "30",
+        "ethnicity": "white"
+      },
+      "Greg Monroe": {
+        "jersey_color": "blue",
+        "jersey_number": "55",
+        "ethnicity": "black"
+      },
+      "Justin Patton": {
+        "jersey_color": "blue",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Wilson Chandler": {
+        "jersey_color": "blue",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Joel Embiid": {
+        "jersey_color": "blue",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Landry Shamet": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Corey Brewer": {
+        "jersey_color": "blue",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Demetrius Jackson": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Danilo Gallinari": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "white"
+      },
+      "Marcin Gortat": {
+        "jersey_color": "white",
+        "jersey_number": "13",
+        "ethnicity": "white"
+      },
+      "Avery Bradley": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Shai Gilgeous-Alexander": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Montrezl Harrell": {
+        "jersey_color": "white",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Patrick Beverley": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Lou Williams": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Tyrone Wallace": {
+        "jersey_color": "white",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Sindarius Thornwell": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Milos Teodosic": {
+        "jersey_color": "white",
+        "jersey_number": "4",
+        "ethnicity": "white"
+      }
+    }
+  },
+  "0021800182": {
+    "teamA": "Nets",
+    "teamB": "Warriors",
+    "colorA": "white",
+    "colorB": "blue",
+    "players": {
+      "Kevin Durant": {
+        "jersey_color": "blue",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Draymond Green": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "DeMarcus Cousins": {
+        "jersey_color": "blue",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Klay Thompson": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Stephen Curry": {
+        "jersey_color": "blue",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Kevon Looney": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Andre Iguodala": {
+        "jersey_color": "blue",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Alfonzo McKinnie": {
+        "jersey_color": "blue",
+        "jersey_number": "28",
+        "ethnicity": "black"
+      },
+      "Shaun Livingston": {
+        "jersey_color": "blue",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Jonas Jerebko": {
+        "jersey_color": "blue",
+        "jersey_number": "21",
+        "ethnicity": "white"
+      },
+      "Quinn Cook": {
+        "jersey_color": "blue",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Jordan Bell": {
+        "jersey_color": "blue",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Marcus Derrickson": {
+        "jersey_color": "blue",
+        "jersey_number": "32",
+        "ethnicity": "black"
+      },
+      "Damion Lee": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Joe Harris": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Jared Dudley": {
+        "jersey_color": "white",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Jarrett Allen": {
+        "jersey_color": "white",
+        "jersey_number": "31",
+        "ethnicity": "black"
+      },
+      "Caris LeVert": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "D'Angelo Russell": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Allen Crabbe": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Ed Davis": {
+        "jersey_color": "white",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Rondae Hollis-Jefferson": {
+        "jersey_color": "white",
+        "jersey_number": "24",
+        "ethnicity": "black"
+      },
+      "Spencer Dinwiddie": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Shabazz Napier": {
+        "jersey_color": "white",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Kenneth Faried": {
+        "jersey_color": "white",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Rodions Kurucs": {
+        "jersey_color": "white",
+        "jersey_number": "0 0",
+        "ethnicity": "white"
+      },
+      "DeMarre Carroll": {
+        "jersey_color": "white",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Theo Pinson": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Jacob Evans": {
+        "jersey_color": "blue",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Andrew Bogut": {
+        "jersey_color": "blue",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Damian Jones": {
+        "jersey_color": "blue",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800060": {
+    "teamA": "Lakers",
+    "teamB": "Suns",
+    "colorA": "purple",
+    "colorB": "white",
+    "players": {
+      "Josh Jackson": {
+        "jersey_color": "white",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "T.J. Warren": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "Deandre Ayton": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Mikal Bridges": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "De'Anthony Melton": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Jawun Evans": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Troy Daniels": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Richaun Holmes": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dragan Bender": {
+        "jersey_color": "white",
+        "jersey_number": "35",
+        "ethnicity": "white"
+      },
+      "George King": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Ryan Anderson": {
+        "jersey_color": "white",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "Trevor Ariza": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Jamal Crawford": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "LeBron James": {
+        "jersey_color": "purple",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Kyle Kuzma": {
+        "jersey_color": "purple",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Ivica Zubac": {
+        "jersey_color": "purple",
+        "jersey_number": "40",
+        "ethnicity": "white"
+      },
+      "Brandon Ingram": {
+        "jersey_color": "purple",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Lonzo Ball": {
+        "jersey_color": "purple",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Tyson Chandler": {
+        "jersey_color": "purple",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Josh Hart": {
+        "jersey_color": "purple",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Rajon Rondo": {
+        "jersey_color": "purple",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Kentavious Caldwell-Pope": {
+        "jersey_color": "purple",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Lance Stephenson": {
+        "jersey_color": "purple",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Svi Mykhailiuk": {
+        "jersey_color": "purple",
+        "jersey_number": "10",
+        "ethnicity": "white"
+      },
+      "Moritz Wagner": {
+        "jersey_color": "purple",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "JaVale McGee": {
+        "jersey_color": "purple",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Devin Booker": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Isaiah Canaan": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Elie Okobo": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "TYLER Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "Michael Beasley": {
+        "jersey_color": "purple",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Isaac Bonga": {
+        "jersey_color": "purple",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Ray Spalding": {
+        "jersey_color": "white",
+        "jersey_number": "26",
+        "ethnicity": "black"
+      },
+      "Jimmer Fredette": {
+        "jersey_color": "white",
+        "jersey_number": "32",
+        "ethnicity": "white"
+      },
+      "Mike Muscala": {
+        "jersey_color": "purple",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Johnathan Williams": {
+        "jersey_color": "purple",
+        "jersey_number": "19",
+        "ethnicity": "black"
+      },
+      "Kelly Oubre Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Alex Caruso": {
+        "jersey_color": "purple",
+        "jersey_number": "4",
+        "ethnicity": "white"
+      },
+      "Jemerrio Jones": {
+        "jersey_color": "purple",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Reggie Bullock Jr.": {
+        "jersey_color": "purple",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800901": {
+    "teamA": "Suns",
+    "teamB": "Heat",
+    "colorA": "white",
+    "colorB": "black",
+    "players": {
+      "Josh Jackson": {
+        "jersey_color": "white",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "T.J. Warren": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "Deandre Ayton": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Mikal Bridges": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "De'Anthony Melton": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Jawun Evans": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Troy Daniels": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Richaun Holmes": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dragan Bender": {
+        "jersey_color": "white",
+        "jersey_number": "35",
+        "ethnicity": "white"
+      },
+      "George King": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Ryan Anderson": {
+        "jersey_color": "white",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "Trevor Ariza": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Jamal Crawford": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Josh Richardson": {
+        "jersey_color": "black",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Kelly Olynyk": {
+        "jersey_color": "black",
+        "jersey_number": "9",
+        "ethnicity": "white"
+      },
+      "Hassan Whiteside": {
+        "jersey_color": "black",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dion Waiters": {
+        "jersey_color": "black",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Justise Winslow": {
+        "jersey_color": "black",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "Dwyane Wade": {
+        "jersey_color": "black",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Bam Adebayo": {
+        "jersey_color": "black",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "James Johnson": {
+        "jersey_color": "black",
+        "jersey_number": "16",
+        "ethnicity": "black"
+      },
+      "Rodney McGruder": {
+        "jersey_color": "black",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Udonis Haslem": {
+        "jersey_color": "black",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "Duncan Robinson": {
+        "jersey_color": "black",
+        "jersey_number": "55",
+        "ethnicity": "white"
+      },
+      "Goran Dragic": {
+        "jersey_color": "black",
+        "jersey_number": "7",
+        "ethnicity": "white"
+      },
+      "Derrick Jones Jr.": {
+        "jersey_color": "black",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Yante Maten": {
+        "jersey_color": "black",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Devin Booker": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Isaiah Canaan": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Elie Okobo": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Tyler Johnson": {
+        "jersey_color": "black",
+        "jersey_number": "8",
+        "ethnicity": "white"
+      },
+      "TYLER Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "Wayne Ellington": {
+        "jersey_color": "black",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Ray Spalding": {
+        "jersey_color": "white",
+        "jersey_number": "26",
+        "ethnicity": "black"
+      },
+      "Jimmer Fredette": {
+        "jersey_color": "white",
+        "jersey_number": "32",
+        "ethnicity": "white"
+      },
+      "Kelly Oubre Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Emanuel Terry": {
+        "jersey_color": "black",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021801019": {
+    "teamA": "Suns",
+    "teamB": "Jazz",
+    "colorA": "white",
+    "colorB": "purple",
+    "players": {
+      "Josh Jackson": {
+        "jersey_color": "white",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "T.J. Warren": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "Deandre Ayton": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Mikal Bridges": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "De'Anthony Melton": {
+        "jersey_color": "white",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Jawun Evans": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Troy Daniels": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Richaun Holmes": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dragan Bender": {
+        "jersey_color": "white",
+        "jersey_number": "35",
+        "ethnicity": "white"
+      },
+      "George King": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Ryan Anderson": {
+        "jersey_color": "white",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "Trevor Ariza": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Jamal Crawford": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Devin Booker": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Isaiah Canaan": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Elie Okobo": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "TYLER Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "Joe Ingles": {
+        "jersey_color": "purple",
+        "jersey_number": "2",
+        "ethnicity": "white"
+      },
+      "Jae Crowder": {
+        "jersey_color": "purple",
+        "jersey_number": "99",
+        "ethnicity": "black"
+      },
+      "Rudy Gobert": {
+        "jersey_color": "purple",
+        "jersey_number": "27",
+        "ethnicity": "black"
+      },
+      "Donovan Mitchell": {
+        "jersey_color": "purple",
+        "jersey_number": "45",
+        "ethnicity": "black"
+      },
+      "Ricky Rubio": {
+        "jersey_color": "purple",
+        "jersey_number": "3",
+        "ethnicity": "white"
+      },
+      "Kyle Korver": {
+        "jersey_color": "purple",
+        "jersey_number": "26",
+        "ethnicity": "white"
+      },
+      "Derrick Favors": {
+        "jersey_color": "purple",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      },
+      "Dante Exum": {
+        "jersey_color": "purple",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Royce O'Neale": {
+        "jersey_color": "purple",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Thabo Sefolosha": {
+        "jersey_color": "purple",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Grayson Allen": {
+        "jersey_color": "purple",
+        "jersey_number": "24",
+        "ethnicity": "white"
+      },
+      "Ekpe Udoh": {
+        "jersey_color": "purple",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Georges Niang": {
+        "jersey_color": "purple",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Ray Spalding": {
+        "jersey_color": "white",
+        "jersey_number": "26",
+        "ethnicity": "black"
+      },
+      "Jimmer Fredette": {
+        "jersey_color": "white",
+        "jersey_number": "32",
+        "ethnicity": "white"
+      },
+      "Naz Mitrou-Long": {
+        "jersey_color": "purple",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Tyler Cavanaugh": {
+        "jersey_color": "purple",
+        "jersey_number": "34",
+        "ethnicity": "white"
+      },
+      "Raul Neto": {
+        "jersey_color": "purple",
+        "jersey_number": "25",
+        "ethnicity": "white"
+      },
+      "Kelly Oubre Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Alec Burks": {
+        "jersey_color": "purple",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800160": {
+    "teamA": "Jazz",
+    "teamB": "Mavericks",
+    "colorA": "purple",
+    "colorB": "white",
+    "players": {
+      "Justin Jackson": {
+        "jersey_color": "white",
+        "jersey_number": "44",
+        "ethnicity": "black"
+      },
+      "Dirk Nowitzki": {
+        "jersey_color": "white",
+        "jersey_number": "41",
+        "ethnicity": "white"
+      },
+      "Dwight Powell": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Courtney Lee": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Jalen Brunson": {
+        "jersey_color": "white",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Maxi Kleber": {
+        "jersey_color": "white",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Salah Mejri": {
+        "jersey_color": "white",
+        "jersey_number": "50",
+        "ethnicity": "black"
+      },
+      "Trey Burke": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Ryan Broekhoff": {
+        "jersey_color": "white",
+        "jersey_number": "45",
+        "ethnicity": "white"
+      },
+      "Daryl Macon": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Dorian Finney-Smith": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Devin Harris": {
+        "jersey_color": "white",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Tim Hardaway Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Luka Doncic": {
+        "jersey_color": "white",
+        "jersey_number": "77",
+        "ethnicity": "white"
+      },
+      "Joe Ingles": {
+        "jersey_color": "purple",
+        "jersey_number": "2",
+        "ethnicity": "white"
+      },
+      "Jae Crowder": {
+        "jersey_color": "purple",
+        "jersey_number": "99",
+        "ethnicity": "black"
+      },
+      "Rudy Gobert": {
+        "jersey_color": "purple",
+        "jersey_number": "27",
+        "ethnicity": "black"
+      },
+      "Donovan Mitchell": {
+        "jersey_color": "purple",
+        "jersey_number": "45",
+        "ethnicity": "black"
+      },
+      "Ricky Rubio": {
+        "jersey_color": "purple",
+        "jersey_number": "3",
+        "ethnicity": "white"
+      },
+      "Kyle Korver": {
+        "jersey_color": "purple",
+        "jersey_number": "26",
+        "ethnicity": "white"
+      },
+      "Derrick Favors": {
+        "jersey_color": "purple",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      },
+      "Dante Exum": {
+        "jersey_color": "purple",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Royce O'Neale": {
+        "jersey_color": "purple",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Thabo Sefolosha": {
+        "jersey_color": "purple",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Grayson Allen": {
+        "jersey_color": "purple",
+        "jersey_number": "24",
+        "ethnicity": "white"
+      },
+      "Ekpe Udoh": {
+        "jersey_color": "purple",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Georges Niang": {
+        "jersey_color": "purple",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Wesley Matthews": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Harrison Barnes": {
+        "jersey_color": "white",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "DeAndre Jordan": {
+        "jersey_color": "white",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Dennis Smith Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "J.J. Barea": {
+        "jersey_color": "white",
+        "jersey_number": "5",
+        "ethnicity": "white"
+      },
+      "Kostas Antetokounmpo": {
+        "jersey_color": "white",
+        "jersey_number": "37",
+        "ethnicity": "black"
+      },
+      "Naz Mitrou-Long": {
+        "jersey_color": "purple",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Tyler Cavanaugh": {
+        "jersey_color": "purple",
+        "jersey_number": "34",
+        "ethnicity": "white"
+      },
+      "Raul Neto": {
+        "jersey_color": "purple",
+        "jersey_number": "25",
+        "ethnicity": "white"
+      },
+      "Alec Burks": {
+        "jersey_color": "purple",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021801105": {
+    "teamA": "Suns",
+    "teamB": "Jazz",
+    "colorA": "purple",
+    "colorB": "white",
+    "players": {
+      "Josh Jackson": {
+        "jersey_color": "purple",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "T.J. Warren": {
+        "jersey_color": "purple",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "Deandre Ayton": {
+        "jersey_color": "purple",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Mikal Bridges": {
+        "jersey_color": "purple",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "De'Anthony Melton": {
+        "jersey_color": "purple",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Jawun Evans": {
+        "jersey_color": "purple",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Troy Daniels": {
+        "jersey_color": "purple",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Richaun Holmes": {
+        "jersey_color": "purple",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dragan Bender": {
+        "jersey_color": "purple",
+        "jersey_number": "35",
+        "ethnicity": "white"
+      },
+      "George King": {
+        "jersey_color": "purple",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Ryan Anderson": {
+        "jersey_color": "purple",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "Trevor Ariza": {
+        "jersey_color": "purple",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Jamal Crawford": {
+        "jersey_color": "purple",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Devin Booker": {
+        "jersey_color": "purple",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Isaiah Canaan": {
+        "jersey_color": "purple",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Elie Okobo": {
+        "jersey_color": "purple",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "TYLER Johnson": {
+        "jersey_color": "purple",
+        "jersey_number": "16",
+        "ethnicity": "white"
+      },
+      "Joe Ingles": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "white"
+      },
+      "Jae Crowder": {
+        "jersey_color": "white",
+        "jersey_number": "99",
+        "ethnicity": "black"
+      },
+      "Rudy Gobert": {
+        "jersey_color": "white",
+        "jersey_number": "27",
+        "ethnicity": "black"
+      },
+      "Donovan Mitchell": {
+        "jersey_color": "white",
+        "jersey_number": "45",
+        "ethnicity": "black"
+      },
+      "Ricky Rubio": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "white"
+      },
+      "Kyle Korver": {
+        "jersey_color": "white",
+        "jersey_number": "26",
+        "ethnicity": "white"
+      },
+      "Derrick Favors": {
+        "jersey_color": "white",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      },
+      "Dante Exum": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Royce O'Neale": {
+        "jersey_color": "white",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Thabo Sefolosha": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Grayson Allen": {
+        "jersey_color": "white",
+        "jersey_number": "24",
+        "ethnicity": "white"
+      },
+      "Ekpe Udoh": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Georges Niang": {
+        "jersey_color": "white",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Ray Spalding": {
+        "jersey_color": "purple",
+        "jersey_number": "26",
+        "ethnicity": "black"
+      },
+      "Jimmer Fredette": {
+        "jersey_color": "purple",
+        "jersey_number": "32",
+        "ethnicity": "white"
+      },
+      "Naz Mitrou-Long": {
+        "jersey_color": "white",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Tyler Cavanaugh": {
+        "jersey_color": "white",
+        "jersey_number": "34",
+        "ethnicity": "white"
+      },
+      "Raul Neto": {
+        "jersey_color": "white",
+        "jersey_number": "25",
+        "ethnicity": "white"
+      },
+      "Kelly Oubre Jr.": {
+        "jersey_color": "purple",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Alec Burks": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800235": {
+    "teamA": "Lakers",
+    "teamB": "Heat",
+    "colorA": "yellow",
+    "colorB": "black",
+    "players": {
+      "Josh Richardson": {
+        "jersey_color": "black",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Kelly Olynyk": {
+        "jersey_color": "black",
+        "jersey_number": "9",
+        "ethnicity": "white"
+      },
+      "Hassan Whiteside": {
+        "jersey_color": "black",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dion Waiters": {
+        "jersey_color": "black",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Justise Winslow": {
+        "jersey_color": "black",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "Dwyane Wade": {
+        "jersey_color": "black",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Bam Adebayo": {
+        "jersey_color": "black",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "James Johnson": {
+        "jersey_color": "black",
+        "jersey_number": "16",
+        "ethnicity": "black"
+      },
+      "Rodney McGruder": {
+        "jersey_color": "black",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Udonis Haslem": {
+        "jersey_color": "black",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "Duncan Robinson": {
+        "jersey_color": "black",
+        "jersey_number": "55",
+        "ethnicity": "white"
+      },
+      "Goran Dragic": {
+        "jersey_color": "black",
+        "jersey_number": "7",
+        "ethnicity": "white"
+      },
+      "Derrick Jones Jr.": {
+        "jersey_color": "black",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Yante Maten": {
+        "jersey_color": "black",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "LeBron James": {
+        "jersey_color": "yellow",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Kyle Kuzma": {
+        "jersey_color": "yellow",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Ivica Zubac": {
+        "jersey_color": "yellow",
+        "jersey_number": "40",
+        "ethnicity": "white"
+      },
+      "Brandon Ingram": {
+        "jersey_color": "yellow",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Lonzo Ball": {
+        "jersey_color": "yellow",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Tyson Chandler": {
+        "jersey_color": "yellow",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Josh Hart": {
+        "jersey_color": "yellow",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Rajon Rondo": {
+        "jersey_color": "yellow",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Kentavious Caldwell-Pope": {
+        "jersey_color": "yellow",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Lance Stephenson": {
+        "jersey_color": "yellow",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Svi Mykhailiuk": {
+        "jersey_color": "yellow",
+        "jersey_number": "10",
+        "ethnicity": "white"
+      },
+      "Moritz Wagner": {
+        "jersey_color": "yellow",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "JaVale McGee": {
+        "jersey_color": "yellow",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Tyler Johnson": {
+        "jersey_color": "black",
+        "jersey_number": "8",
+        "ethnicity": "white"
+      },
+      "Wayne Ellington": {
+        "jersey_color": "black",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Michael Beasley": {
+        "jersey_color": "yellow",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Isaac Bonga": {
+        "jersey_color": "yellow",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Mike Muscala": {
+        "jersey_color": "yellow",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Johnathan Williams": {
+        "jersey_color": "yellow",
+        "jersey_number": "19",
+        "ethnicity": "black"
+      },
+      "Emanuel Terry": {
+        "jersey_color": "black",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      },
+      "Alex Caruso": {
+        "jersey_color": "yellow",
+        "jersey_number": "4",
+        "ethnicity": "white"
+      },
+      "Jemerrio Jones": {
+        "jersey_color": "yellow",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Reggie Bullock Jr.": {
+        "jersey_color": "yellow",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800868": {
+    "teamA": "76ers",
+    "teamB": "Heat",
+    "colorA": "blue",
+    "colorB": "red",
+    "players": {
+      "James Ennis III": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Tobias Harris": {
+        "jersey_color": "blue",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Jonah Bolden": {
+        "jersey_color": "blue",
+        "jersey_number": "43",
+        "ethnicity": "black"
+      },
+      "JJ Redick": {
+        "jersey_color": "blue",
+        "jersey_number": "17",
+        "ethnicity": "white"
+      },
+      "Ben Simmons": {
+        "jersey_color": "blue",
+        "jersey_number": "25",
+        "ethnicity": "black"
+      },
+      "Mike Scott": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Shake Milton": {
+        "jersey_color": "blue",
+        "jersey_number": "18",
+        "ethnicity": "black"
+      },
+      "T.J. McConnell": {
+        "jersey_color": "blue",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Boban Marjanovic": {
+        "jersey_color": "blue",
+        "jersey_number": "51",
+        "ethnicity": "white"
+      },
+      "Zhaire Smith": {
+        "jersey_color": "blue",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Haywood Highsmith": {
+        "jersey_color": "blue",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Amir Johnson": {
+        "jersey_color": "blue",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Jonathon Simmons": {
+        "jersey_color": "blue",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Josh Richardson": {
+        "jersey_color": "red",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Kelly Olynyk": {
+        "jersey_color": "red",
+        "jersey_number": "9",
+        "ethnicity": "white"
+      },
+      "Hassan Whiteside": {
+        "jersey_color": "red",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dion Waiters": {
+        "jersey_color": "red",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Justise Winslow": {
+        "jersey_color": "red",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "Dwyane Wade": {
+        "jersey_color": "red",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Bam Adebayo": {
+        "jersey_color": "red",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "James Johnson": {
+        "jersey_color": "red",
+        "jersey_number": "16",
+        "ethnicity": "black"
+      },
+      "Rodney McGruder": {
+        "jersey_color": "red",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Udonis Haslem": {
+        "jersey_color": "red",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "Duncan Robinson": {
+        "jersey_color": "red",
+        "jersey_number": "55",
+        "ethnicity": "white"
+      },
+      "Jimmy Butler": {
+        "jersey_color": "blue",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Furkan Korkmaz": {
+        "jersey_color": "blue",
+        "jersey_number": "30",
+        "ethnicity": "white"
+      },
+      "Greg Monroe": {
+        "jersey_color": "blue",
+        "jersey_number": "55",
+        "ethnicity": "black"
+      },
+      "Goran Dragic": {
+        "jersey_color": "red",
+        "jersey_number": "7",
+        "ethnicity": "white"
+      },
+      "Derrick Jones Jr.": {
+        "jersey_color": "red",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Yante Maten": {
+        "jersey_color": "red",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Tyler Johnson": {
+        "jersey_color": "red",
+        "jersey_number": "8",
+        "ethnicity": "white"
+      },
+      "Wayne Ellington": {
+        "jersey_color": "red",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Justin Patton": {
+        "jersey_color": "blue",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Wilson Chandler": {
+        "jersey_color": "blue",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "Joel Embiid": {
+        "jersey_color": "blue",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Landry Shamet": {
+        "jersey_color": "blue",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Corey Brewer": {
+        "jersey_color": "blue",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Demetrius Jackson": {
+        "jersey_color": "blue",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Emanuel Terry": {
+        "jersey_color": "red",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021800250": {
+    "teamA": "Nets",
+    "teamB": "Heat",
+    "colorA": "white",
+    "colorB": "black",
+    "players": {
+      "Josh Richardson": {
+        "jersey_color": "black",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Kelly Olynyk": {
+        "jersey_color": "black",
+        "jersey_number": "9",
+        "ethnicity": "white"
+      },
+      "Hassan Whiteside": {
+        "jersey_color": "black",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dion Waiters": {
+        "jersey_color": "black",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Justise Winslow": {
+        "jersey_color": "black",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "Dwyane Wade": {
+        "jersey_color": "black",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Bam Adebayo": {
+        "jersey_color": "black",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "James Johnson": {
+        "jersey_color": "black",
+        "jersey_number": "16",
+        "ethnicity": "black"
+      },
+      "Rodney McGruder": {
+        "jersey_color": "black",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Udonis Haslem": {
+        "jersey_color": "black",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "Duncan Robinson": {
+        "jersey_color": "black",
+        "jersey_number": "55",
+        "ethnicity": "white"
+      },
+      "Goran Dragic": {
+        "jersey_color": "black",
+        "jersey_number": "7",
+        "ethnicity": "white"
+      },
+      "Derrick Jones Jr.": {
+        "jersey_color": "black",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Yante Maten": {
+        "jersey_color": "black",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Joe Harris": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Jared Dudley": {
+        "jersey_color": "white",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Jarrett Allen": {
+        "jersey_color": "white",
+        "jersey_number": "31",
+        "ethnicity": "black"
+      },
+      "Caris LeVert": {
+        "jersey_color": "white",
+        "jersey_number": "22",
+        "ethnicity": "black"
+      },
+      "D'Angelo Russell": {
+        "jersey_color": "white",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Allen Crabbe": {
+        "jersey_color": "white",
+        "jersey_number": "33",
+        "ethnicity": "black"
+      },
+      "Ed Davis": {
+        "jersey_color": "white",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Rondae Hollis-Jefferson": {
+        "jersey_color": "white",
+        "jersey_number": "24",
+        "ethnicity": "black"
+      },
+      "Spencer Dinwiddie": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "black"
+      },
+      "Shabazz Napier": {
+        "jersey_color": "white",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Kenneth Faried": {
+        "jersey_color": "white",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Rodions Kurucs": {
+        "jersey_color": "white",
+        "jersey_number": "0 0",
+        "ethnicity": "white"
+      },
+      "Tyler Johnson": {
+        "jersey_color": "black",
+        "jersey_number": "8",
+        "ethnicity": "white"
+      },
+      "Wayne Ellington": {
+        "jersey_color": "black",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "DeMarre Carroll": {
+        "jersey_color": "white",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Theo Pinson": {
+        "jersey_color": "white",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Emanuel Terry": {
+        "jersey_color": "black",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021801179": {
+    "teamA": "Lakers",
+    "teamB": "Warriors",
+    "colorA": "yellow",
+    "colorB": "gray",
+    "players": {
+      "Kevin Durant": {
+        "jersey_color": "gray",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      },
+      "Draymond Green": {
+        "jersey_color": "gray",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "DeMarcus Cousins": {
+        "jersey_color": "gray",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Klay Thompson": {
+        "jersey_color": "gray",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Stephen Curry": {
+        "jersey_color": "gray",
+        "jersey_number": "30",
+        "ethnicity": "black"
+      },
+      "Kevon Looney": {
+        "jersey_color": "gray",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Andre Iguodala": {
+        "jersey_color": "gray",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Alfonzo McKinnie": {
+        "jersey_color": "gray",
+        "jersey_number": "28",
+        "ethnicity": "black"
+      },
+      "Shaun Livingston": {
+        "jersey_color": "gray",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Jonas Jerebko": {
+        "jersey_color": "gray",
+        "jersey_number": "21",
+        "ethnicity": "white"
+      },
+      "Quinn Cook": {
+        "jersey_color": "gray",
+        "jersey_number": "4",
+        "ethnicity": "black"
+      },
+      "Jordan Bell": {
+        "jersey_color": "gray",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Marcus Derrickson": {
+        "jersey_color": "gray",
+        "jersey_number": "32",
+        "ethnicity": "black"
+      },
+      "LeBron James": {
+        "jersey_color": "yellow",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Kyle Kuzma": {
+        "jersey_color": "yellow",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Ivica Zubac": {
+        "jersey_color": "yellow",
+        "jersey_number": "40",
+        "ethnicity": "white"
+      },
+      "Brandon Ingram": {
+        "jersey_color": "yellow",
+        "jersey_number": "14",
+        "ethnicity": "black"
+      },
+      "Lonzo Ball": {
+        "jersey_color": "yellow",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Tyson Chandler": {
+        "jersey_color": "yellow",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Josh Hart": {
+        "jersey_color": "yellow",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Rajon Rondo": {
+        "jersey_color": "yellow",
+        "jersey_number": "9",
+        "ethnicity": "black"
+      },
+      "Kentavious Caldwell-Pope": {
+        "jersey_color": "yellow",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Lance Stephenson": {
+        "jersey_color": "yellow",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Svi Mykhailiuk": {
+        "jersey_color": "yellow",
+        "jersey_number": "10",
+        "ethnicity": "white"
+      },
+      "Moritz Wagner": {
+        "jersey_color": "yellow",
+        "jersey_number": "15",
+        "ethnicity": "white"
+      },
+      "JaVale McGee": {
+        "jersey_color": "yellow",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Damion Lee": {
+        "jersey_color": "gray",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Michael Beasley": {
+        "jersey_color": "yellow",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Isaac Bonga": {
+        "jersey_color": "yellow",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Mike Muscala": {
+        "jersey_color": "yellow",
+        "jersey_number": "31",
+        "ethnicity": "white"
+      },
+      "Jacob Evans": {
+        "jersey_color": "gray",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Andrew Bogut": {
+        "jersey_color": "gray",
+        "jersey_number": "12",
+        "ethnicity": "white"
+      },
+      "Damian Jones": {
+        "jersey_color": "gray",
+        "jersey_number": "15",
+        "ethnicity": "black"
+      },
+      "Johnathan Williams": {
+        "jersey_color": "yellow",
+        "jersey_number": "19",
+        "ethnicity": "black"
+      },
+      "Alex Caruso": {
+        "jersey_color": "yellow",
+        "jersey_number": "4",
+        "ethnicity": "white"
+      },
+      "Jemerrio Jones": {
+        "jersey_color": "yellow",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Reggie Bullock Jr.": {
+        "jersey_color": "yellow",
+        "jersey_number": "35",
+        "ethnicity": "black"
+      }
+    }
+  },
+  "0021801124": {
+    "teamA": "Mavericks",
+    "teamB": "Heat",
+    "colorA": "black",
+    "colorB": "white",
+    "players": {
+      "Justin Jackson": {
+        "jersey_color": "black",
+        "jersey_number": "44",
+        "ethnicity": "black"
+      },
+      "Dirk Nowitzki": {
+        "jersey_color": "black",
+        "jersey_number": "41",
+        "ethnicity": "white"
+      },
+      "Dwight Powell": {
+        "jersey_color": "black",
+        "jersey_number": "7",
+        "ethnicity": "black"
+      },
+      "Courtney Lee": {
+        "jersey_color": "black",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "Jalen Brunson": {
+        "jersey_color": "black",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "Maxi Kleber": {
+        "jersey_color": "black",
+        "jersey_number": "42",
+        "ethnicity": "white"
+      },
+      "Salah Mejri": {
+        "jersey_color": "black",
+        "jersey_number": "50",
+        "ethnicity": "black"
+      },
+      "Trey Burke": {
+        "jersey_color": "black",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Ryan Broekhoff": {
+        "jersey_color": "black",
+        "jersey_number": "45",
+        "ethnicity": "white"
+      },
+      "Daryl Macon": {
+        "jersey_color": "black",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Dorian Finney-Smith": {
+        "jersey_color": "black",
+        "jersey_number": "10",
+        "ethnicity": "black"
+      },
+      "Devin Harris": {
+        "jersey_color": "black",
+        "jersey_number": "34",
+        "ethnicity": "black"
+      },
+      "Josh Richardson": {
+        "jersey_color": "white",
+        "jersey_number": "0",
+        "ethnicity": "black"
+      },
+      "Kelly Olynyk": {
+        "jersey_color": "white",
+        "jersey_number": "9",
+        "ethnicity": "white"
+      },
+      "Hassan Whiteside": {
+        "jersey_color": "white",
+        "jersey_number": "21",
+        "ethnicity": "black"
+      },
+      "Dion Waiters": {
+        "jersey_color": "white",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Justise Winslow": {
+        "jersey_color": "white",
+        "jersey_number": "20",
+        "ethnicity": "black"
+      },
+      "Dwyane Wade": {
+        "jersey_color": "white",
+        "jersey_number": "3",
+        "ethnicity": "black"
+      },
+      "Bam Adebayo": {
+        "jersey_color": "white",
+        "jersey_number": "13",
+        "ethnicity": "black"
+      },
+      "James Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "16",
+        "ethnicity": "black"
+      },
+      "Rodney McGruder": {
+        "jersey_color": "white",
+        "jersey_number": "17",
+        "ethnicity": "black"
+      },
+      "Udonis Haslem": {
+        "jersey_color": "white",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "Duncan Robinson": {
+        "jersey_color": "white",
+        "jersey_number": "55",
+        "ethnicity": "white"
+      },
+      "Tim Hardaway Jr.": {
+        "jersey_color": "black",
+        "jersey_number": "11",
+        "ethnicity": "black"
+      },
+      "Luka Doncic": {
+        "jersey_color": "black",
+        "jersey_number": "77",
+        "ethnicity": "white"
+      },
+      "Goran Dragic": {
+        "jersey_color": "white",
+        "jersey_number": "7",
+        "ethnicity": "white"
+      },
+      "Derrick Jones Jr.": {
+        "jersey_color": "white",
+        "jersey_number": "5",
+        "ethnicity": "black"
+      },
+      "Yante Maten": {
+        "jersey_color": "white",
+        "jersey_number": "0 0",
+        "ethnicity": "black"
+      },
+      "Tyler Johnson": {
+        "jersey_color": "white",
+        "jersey_number": "8",
+        "ethnicity": "white"
+      },
+      "Wayne Ellington": {
+        "jersey_color": "white",
+        "jersey_number": "2",
+        "ethnicity": "black"
+      },
+      "Wesley Matthews": {
+        "jersey_color": "black",
+        "jersey_number": "23",
+        "ethnicity": "black"
+      },
+      "Harrison Barnes": {
+        "jersey_color": "black",
+        "jersey_number": "40",
+        "ethnicity": "black"
+      },
+      "DeAndre Jordan": {
+        "jersey_color": "black",
+        "jersey_number": "6",
+        "ethnicity": "black"
+      },
+      "Dennis Smith Jr.": {
+        "jersey_color": "black",
+        "jersey_number": "1",
+        "ethnicity": "black"
+      },
+      "J.J. Barea": {
+        "jersey_color": "black",
+        "jersey_number": "5",
+        "ethnicity": "white"
+      },
+      "Kostas Antetokounmpo": {
+        "jersey_color": "black",
+        "jersey_number": "37",
+        "ethnicity": "black"
+      },
+      "Emanuel Terry": {
+        "jersey_color": "white",
+        "jersey_number": "12",
+        "ethnicity": "black"
+      }
+    }
+  }
+}

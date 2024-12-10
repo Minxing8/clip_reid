@@ -4,12 +4,14 @@ import requests
 import hashlib
 import shutil
 from zipfile import ZipFile
+import hashlib
 
 
 @dataclass
 class Configuration:
     link: str = "https://github.com/DeepSportRadar/player-reidentification-challenge/archive/refs/heads/master.zip"
-    md5: str = '05715857791e2e88b2f11e4037fbec7d'
+    # md5: str = '05715857791e2e88b2f11e4037fbec7d'
+    md5: str = '2a1cdbd10d2b8f0da6575e3581343e31'
     path: str = "./data"
     
 
@@ -30,6 +32,11 @@ config = Configuration()
 #----------------------------------------------------------------------------------------------------------------------#
 if not os.path.exists(config.path):
     os.makedirs(config.path) 
+
+with open('./data/synergyreid_data.zip', 'rb') as f:
+    file_md5 = hashlib.md5(f.read()).hexdigest()
+    print(f"Calculated MD5: {file_md5}")
+    print(f"Expected MD5: {config.md5}")
 
 # only download if data zip is missing
 if not os.path.isfile("{}/synergyreid_data.zip".format(config.path)):

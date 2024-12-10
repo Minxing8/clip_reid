@@ -14,6 +14,8 @@ from clipreid.transforms import get_transforms
 from clipreid.dataset import TrainDataset, TestDataset
 from clipreid.evaluator import predict, compute_dist_matrix, compute_scores
 
+print(torch.cuda.is_available())
+
 @dataclass
 class Configuration:
     '''

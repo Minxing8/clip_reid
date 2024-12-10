@@ -132,3 +132,5 @@ dmypy.json
 data/
 logs/
 model/
+model_nsva/
+model_nsva_train/

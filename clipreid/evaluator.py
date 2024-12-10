@@ -4,7 +4,6 @@ Source: https://github.com/DeepSportRadar/player-reidentification-challenge
 for: pairwise_distance, compute_scores, write_mat_csv
 
 """
-
 from collections import OrderedDict
 import torch
 from .metrics import cmc, mean_ap
@@ -169,6 +168,3 @@ def write_mat_csv(fpat, dist_matrix, query, gallery):
         np.savetxt(f, data.reshape(1, data.shape[0]), delimiter=',', fmt='%i')
         np.savetxt(f, np.hstack((rows, dist_matrix)), newline='\n', fmt=['%i',
                    *['%10.5f']*dist_matrix.shape[1]], delimiter=',')
-
-
-

@@ -1,0 +1,661 @@
+Loading labels...
+Skipping malformed line 135: 3_Unknown
+Skipping malformed line 137: 9_Unknown
+Skipping malformed line 138: 6_Unknown
+Total labels loaded: 135
+Loading player summaries...
+Total player summaries loaded: 172
+Loading game_player_attribute...
+Total games loaded: 30
+Loading embedding_info...
+Total embedding mappings loaded: 3
+Creating attribute classes...
+Jersey Colors Descriptions: ['a black jersey, color black', 'a blue jersey, color blue', 'a gray jersey, color gray', 'a purple jersey, color purple', 'a red jersey, color red', 'a white jersey, color white', 'a yellow jersey, color yellow']
+Jersey Numbers Descriptions: ['a basketball player with jersey number 0', 'a basketball player with jersey number 1', 'a basketball player with jersey number 2', 'a basketball player with jersey number 3', 'a basketball player with jersey number 4', 'a basketball player with jersey number 5', 'a basketball player with jersey number 6', 'a basketball player with jersey number 7', 'a basketball player with jersey number 8', 'a basketball player with jersey number 9', 'a basketball player with jersey number 10', 'a basketball player with jersey number 11', 'a basketball player with jersey number 12', 'a basketball player with jersey number 13', 'a basketball player with jersey number 14', 'a basketball player with jersey number 15', 'a basketball player with jersey number 16', 'a basketball player with jersey number 17', 'a basketball player with jersey number 18', 'a basketball player with jersey number 19', 'a basketball player with jersey number 20', 'a basketball player with jersey number 21', 'a basketball player with jersey number 22', 'a basketball player with jersey number 23', 'a basketball player with jersey number 24', 'a basketball player with jersey number 25', 'a basketball player with jersey number 26', 'a basketball player with jersey number 27', 'a basketball player with jersey number 28', 'a basketball player with jersey number 30', 'a basketball player with jersey number 31', 'a basketball player with jersey number 32', 'a basketball player with jersey number 33', 'a basketball player with jersey number 34', 'a basketball player with jersey number 35', 'a basketball player with jersey number 37', 'a basketball player with jersey number 40', 'a basketball player with jersey number 41', 'a basketball player with jersey number 42', 'a basketball player with jersey number 43', 'a basketball player with jersey number 44', 'a basketball player with jersey number 45', 'a basketball player with jersey number 50', 'a basketball player with jersey number 51', 'a basketball player with jersey number 55', 'a basketball player with jersey number 77', 'a basketball player with jersey number 99', 'a basketball player with jersey number 0 0']
+Ethnicities Descriptions: ['a black basketball player', 'a white basketball player']
+Loading CLIP model...
+CLIP model 'ViT-L/14' loaded on cuda:0
+Encoding class descriptions...
+Class descriptions encoded successfully.
+Loading data from ./data/nsva/train_df.csv...
+Total images in 'train' split: 15193
+Starting zero-shot classification...
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+PlayerLog file has been saved to 'output_embeds/zero_shot_classification_log_train.txt'
+Skipping player '51' in game '0021800182' due to insufficient images (11).
+Skipping player '66' in game '0021801124' due to insufficient images (14).
+Skipping player '75' in game '0021801216' due to insufficient images (12).
+Skipping player '64' in game '0021801216' due to insufficient images (12).
+Skipping player '68' in game '0021801216' due to insufficient images (12).
+Skipping player '46' in game '0021801216' due to insufficient images (12).
+Skipping player '65' in game '0021801216' due to insufficient images (12).
+Skipping player '33' in game '0021801158' due to insufficient images (16).
+Combined DataFrame contains 68216 images.
+Total unique players before splitting: 135
+Selected 20 players for the test split.
+No challenge_game_ending provided. Skipping challenge DataFrame creation.
+Assigning folds using GroupKFold with 10 splits.
+
+DataFrames saved:
+ - Training/Test DataFrame: ./data/nsva/train_df.csv
+
+Summary:
+Number of total images: 68216
+Number of training images: 56016
+Number of testing images: 12200
+Number of unique training players: 115
+Number of unique testing players: 20
+Log file has been saved to 'output_embeds/ZS_log_full_train.txt'
+found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Kentavious Caldwell Pope' not found in game '0021800060'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+Player 'Dorian Finney Smith' not found in game '0021800160'. Skipping.
+
+Zero-shot classification completed.
+Total images processed: 14593
+Total images skipped: 600
+
+Evaluating predictions...
+
+Zero-Shot Classification Metrics:
+
+Attribute: jersey_color
+ - Top-1 Accuracy: 0.4068
+ - Top-2 Accuracy: 0.7292
+ - Precision: 0.7331
+ - Recall: 0.4068
+ - F1 Score: 0.4701
+
+Attribute: jersey_number
+ - Top-1 Accuracy: 0.1989
+ - Top-3 Accuracy: 0.3232
+ - Precision: 0.4601
+ - Recall: 0.1989
+ - F1 Score: 0.2364
+
+Attribute: ethnicity
+ - Top-1 Accuracy: 0.8596
+ - Precision: 0.8777
+ - Recall: 0.8596
+ - F1 Score: 0.8653
+
+Predictions have been saved to 'output_embeds/zero_shot_predictions_train.csv'
